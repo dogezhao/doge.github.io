@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dogezhao</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-02-23T17:25:28.066Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jason</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客啊</title>
+    <link href="http://yoursite.com/2016/02/23/my-first-blog/"/>
+    <id>http://yoursite.com/2016/02/23/my-first-blog/</id>
+    <published>2016-02-23T14:07:08.000Z</published>
+    <updated>2016-02-23T17:25:28.066Z</updated>
+    
+    <content type="html">&lt;p&gt;用了一个下午的时间，中午把这个github所谓的免费博客配置好了，真不容易啊。不过效果还是不错的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先呢，为什么我要弄这个玩意？ 答案是：&lt;strong&gt;闲的&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好吧，其实真实情况是这样的，下午闲着无聊，逛了逛论坛，发现好多人都有私人博客，于是呢我也想有个。&lt;br&gt;百度一下，这玩意得要两样东西：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;空间（存放网站内容并提供访问服务）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;域名（解析到空间的地址，输入域名访问空间）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;空间要钱，域名同样要钱。算了，找找看免费的。于是乎就找到了github。这家据说提供300M的免费空间，本来是一个开源社区，后来似乎被人们发现可以用这个300M来生成个人主页。而且似乎很多geek大牛都用这个，不错，装比就靠它了。&lt;/p&gt;
+&lt;p&gt;免费的自然有它的局限性&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;只能生成静态页面，相比与常用的wordpress生成的功能要少一些。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;很折腾，要搭建一系列的环境。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;等等……&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;当然也有优点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;博客这东西本来就没多少文章，用上数据库，后端啥的有点杀鸡用牛刀的感觉，静态页面反而有速度优势&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;pull request，issue都是杀手级的feature&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;强调个人&lt;/strong&gt;，符合hacker更看重名誉/成就感的天性&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用markdown语法写文档，排版方便&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;因为是开源的，geek们早已开发出类似于jekyll、hexo、octopress等一系列好用的静态博客生成器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;免费&lt;/strong&gt;（这不是重点）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;关于写博客&quot;&gt;&lt;a href=&quot;#关于写博客&quot; class=&quot;headerlink&quot; title=&quot;关于写博客&quot;&gt;&lt;/a&gt;关于写博客&lt;/h2&gt;&lt;p&gt;其实如今这个时代，写博客的少了，写微博的多了，像我这么个连微信朋友圈都很少发的人突然说要写博客，真是&lt;strong&gt;假得一笔&lt;/strong&gt;。正如现在键盘前的这一篇，真是感觉写点字怎么就这么难呢！！&lt;/p&gt;
+&lt;p&gt;说归说，既然创建了这么个东西，我自然是想坚持写的。因为经常写点东西总结下生活、记录点想法，是肯定有好处的。作为一个功利主义者，我觉得写东西有以下好处：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;锻炼写作能力（废话）&lt;/li&gt;
+&lt;li&gt;锻炼逻辑思维能力（同上）&lt;/li&gt;
+&lt;li&gt;提供学习的动力，不学习就没东西写了&lt;/li&gt;
+&lt;li&gt;活得明白一些，减少迷失自我几率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&quot;所以博客的内容应该是这样的：&quot;&gt;&lt;a href=&quot;#所以博客的内容应该是这样的：&quot; class=&quot;headerlink&quot; title=&quot;所以博客的内容应该是这样的：&quot;&gt;&lt;/a&gt;所以博客的内容应该是这样的：&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;不是生活杂记、不是流水账、不是牢骚、不是抱怨、不是心情琐记……；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;有目的地写，要务实，追求质量；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;承认真实的自己，不要吹嘘，不要装逼，无需讨好读者；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;记录自己学习、思考、总结的过程；5. 分享你的故事、所得、感想、经验；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&quot;以下摘自《很少人能顺畅回答这9个问题——心理治疗刚开始医生常常会先问你的-》by-李孟潮&quot;&gt;&lt;a href=&quot;#以下摘自《很少人能顺畅回答这9个问题——心理治疗刚开始医生常常会先问你的-》by-李孟潮&quot; class=&quot;headerlink&quot; title=&quot;以下摘自《很少人能顺畅回答这9个问题——心理治疗刚开始医生常常会先问你的 》by 李孟潮&quot;&gt;&lt;/a&gt;以下摘自《很少人能顺畅回答这9个问题——心理治疗刚开始医生常常会先问你的 》by 李孟潮&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;1、请你介绍一下你自己，你是个什么样的人？&lt;/li&gt;
+&lt;li&gt;2、你有什么理想吗？这个理想是怎么形成的？&lt;/li&gt;
+&lt;li&gt;3、你理想的伴侣关系是什么样的？你自己在这个伴侣关系中扮演什么样的角色？要承担什么样的责任？&lt;/li&gt;
+&lt;li&gt;4、你理想的事业是什么，你正在做的工作符合你的事业理想吗？这份工作对你的意义是什么？&lt;/li&gt;
+&lt;li&gt;5、你对亲子关系怎么看？对你来说，什么是一个理想的父亲（母亲），你期望自己成为这样一个理想父亲（母亲）吗？&lt;/li&gt;
+&lt;li&gt;6、你对钱怎么看，你认为赚到多少钱是足够的？如果你明天一早醒来，已经有足够的钱，你将会如何继续安排自己的生活？&lt;/li&gt;
+&lt;li&gt;7、对你来说，什么是理想的性生活？什么是理想的性道德，在你的性道德观中，什么样的性生活是禁忌的，需要避免的，什么样的性生活是美好的，需要得到鼓励和发展的？&lt;/li&gt;
+&lt;li&gt;8、你的择友标准是什么？什么样的人你会愿意交往，什么样的人你会拒绝和他交往？&lt;/li&gt;
+&lt;li&gt;9、你对死亡怎么看？你希望自己活到多少岁，你准备怎么度过从现在到死亡的这段时间？如果你要立遗嘱，这份遗嘱会怎么写？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;写文章可以考虑从回答类似于以上的这些问题开始，慎重思考下笔，重新认识自己。&lt;/p&gt;
+&lt;h2 id=&quot;above-all&quot;&gt;&lt;a href=&quot;#above-all&quot; class=&quot;headerlink&quot; title=&quot;above all&quot;&gt;&lt;/a&gt;above all&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;用了一个下午的时间，中午把这个github所谓的免费博客配置好了，真不容易啊。不过效果还是不错的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先呢，为什么我要弄这个玩意？ 答案是：&lt;strong&gt;闲的&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好吧，其实
+    
+    </summary>
+    
+      <category term="essay" scheme="http://yoursite.com/categories/essay/"/>
+    
+    
+      <category term="loading force" scheme="http://yoursite.com/tags/loading-force/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/02/22/hello-world/"/>
+    <id>http://yoursite.com/2016/02/22/hello-world/</id>
+    <published>2016-02-22T14:07:08.000Z</published>
+    <updated>2016-02-23T14:18:50.922Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;http://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo new &amp;quot;my new post&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo server
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo generate
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; More info: &lt;a href=&quot;http://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo deploy
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
