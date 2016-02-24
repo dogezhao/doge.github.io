@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-24T07:20:27.188Z</updated>
+  <updated>2016-02-24T09:21:00.733Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/02/23/my-first-blog/"/>
     <id>http://yoursite.com/2016/02/23/my-first-blog/</id>
     <published>2016-02-23T14:07:08.000Z</published>
-    <updated>2016-02-24T07:20:27.188Z</updated>
+    <updated>2016-02-24T09:21:00.733Z</updated>
     
     <content type="html">&lt;p&gt;用了一个下午的时间，中午把这个github所谓的免费博客配置好了，真不容易啊。不过效果还是不错的。&lt;/p&gt;
 &lt;h2 id=&quot;为什么要弄这个玩意？&quot;&gt;&lt;a href=&quot;#为什么要弄这个玩意？&quot; class=&quot;headerlink&quot; title=&quot;为什么要弄这个玩意？&quot;&gt;&lt;/a&gt;为什么要弄这个玩意？&lt;/h2&gt;&lt;blockquote&gt;
@@ -80,7 +80,11 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;ol&gt;
-&lt;li&gt;记录自己学习、思考、总结的过程；5. 分享你的故事、所得、感想、经验；&lt;/li&gt;
+&lt;li&gt;记录自己学习、思考、总结的过程；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;分享你的故事、所得、感想、经验；&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
