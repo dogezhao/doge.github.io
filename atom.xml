@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-25T03:45:46.274Z</updated>
+  <updated>2016-02-25T05:54:29.982Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://yoursite.com/2016/02/23/my-first-blog/"/>
     <id>http://yoursite.com/2016/02/23/my-first-blog/</id>
     <published>2016-02-23T14:07:08.000Z</published>
-    <updated>2016-02-25T03:45:46.274Z</updated>
+    <updated>2016-02-25T05:54:29.982Z</updated>
     
     <content type="html">&lt;p&gt;用了一个下午的时间，终于把这个github所谓的免费博客配置好了，真不容易啊。不过效果还是不错的。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;为什么要弄这个玩意？&quot;&gt;&lt;a href=&quot;#为什么要弄这个玩意？&quot; class=&quot;headerlink&quot; title=&quot;为什么要弄这个玩意？&quot;&gt;&lt;/a&gt;为什么要弄这个玩意？&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt; 答案是：&lt;strong&gt;闲的&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -98,7 +99,6 @@
     <summary type="html">
     
       &lt;p&gt;用了一个下午的时间，终于把这个github所谓的免费博客配置好了，真不容易啊。不过效果还是不错的。&lt;/p&gt;
-&lt;h2 id=&quot;为什么要弄这个玩意？&quot;&gt;&lt;a href=&quot;#为什么要弄这个玩意？&quot; class=&quot;headerlink&quot; title=&quot;为什么要弄这个玩意？&quot;&gt;&lt;/a
     
     </summary>
     
@@ -114,9 +114,10 @@
     <link href="http://yoursite.com/2016/02/22/hello-world/"/>
     <id>http://yoursite.com/2016/02/22/hello-world/</id>
     <published>2016-02-22T14:07:08.000Z</published>
-    <updated>2016-02-25T03:44:54.137Z</updated>
+    <updated>2016-02-25T05:54:19.133Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;http://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo new &amp;quot;my new post&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;$ hexo server
@@ -129,7 +130,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io
+      &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;http://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
