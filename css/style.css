@@ -494,6 +494,13 @@ article footer .tags:before {
   font-weight: normal;
   margin-bottom: 15px;
 }
+#ds-thread {
+  padding: 24px;
+}
+#ds-thread {
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
 #pagination {
   padding-bottom: 20px;
 }
