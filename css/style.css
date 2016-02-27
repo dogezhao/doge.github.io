@@ -992,7 +992,7 @@ pre .deletion {
   border: 1px solid color-white;
   color: color-white;
   background: transparent;
-  padding-right: 4em;
+  padding-left: 4em;
 }
 @media tablet {
   .search input {
